@@ -82,9 +82,9 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
 ## Skills 与工作流
 
-这里介绍 11 项工作流方向，涵盖脚本与文案、视频创作、电商复盘、运营设计、产品交付与个人规划。其中 5 个经过整理和检查的通用版本已收录在 [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills)。
+11 个整理后的通用版本现已全部收录在 [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills)，涵盖脚本与文案、视频创作、电商复盘、运营设计、产品交付与个人规划。
 
-公开仓库不是全部私有 Skills 的镜像；其余目录条目仅介绍用途与范围，不代表原始材料或代码已经公开。
+公开版不包含受限课程、书籍原文或私有数据，也不等同于原私有版本的完整方法体系。各包能力与检查范围见仓库说明；模型行为质量和真实平台效果尚未验证。
 
 [浏览 Skills 目录 →](SKILLS.md)
 
