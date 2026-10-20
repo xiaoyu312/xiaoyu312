@@ -8,6 +8,14 @@
 
 从真实需求出发，把重复操作、分散数据和复杂流程，整理成更顺手的工具。这里记录我的系统、工具与 Skills 实践。
 
+## 在线产品
+
+### FateClear · 拨云
+
+免费的生日排盘与解读网站。付费 AI 对话功能正在规划中；这里只提供网站入口，不公开本地源码。
+
+[访问 FateClear →](https://fateclear.com)
+
 ## 在做的系统
 
 ### Live Growth OS
@@ -72,7 +80,7 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
 ## 找到我
 
-[X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334) · [邮箱](mailto:a18565517703@gmail.com)
+[网站 · FateClear](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334) · [邮箱](mailto:a18565517703@gmail.com)
 
 <details>
 <summary>微信联系</summary>
