@@ -82,9 +82,9 @@ Some sanitized scenarios have been validated; full Windows and real-platform wor
 
 ## Skills & Workflows
 
-This catalog introduces 11 workflow areas covering scripts and copy, video creation, e-commerce reviews, operations design, product delivery, and personal planning. Five cleaned and checked general-purpose versions are now available in [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills).
+All 11 cleaned general-purpose versions are now available in [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills), covering scripts and copy, video creation, e-commerce reviews, operations design, product delivery, and personal planning.
 
-The public repository is not a mirror of all private skills. The remaining catalog entries are purpose summaries, not a release of their source materials or code.
+The public versions exclude restricted course and book content and private data. They do not reproduce the full methods of the private versions. See each package for its capabilities and checks; model behavior quality and real-platform results remain unverified.
 
 [Explore the skills catalog →](SKILLS.en.md)
 
