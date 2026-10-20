@@ -22,11 +22,13 @@ Free birth-chart generation and interpretation. Paid AI chat is planned. This pr
 
 ### Live Growth OS
 
-**Livestream operations · Internal pilot**
+**Livestream operations · Experimental public source release**
 
 Connects livestream metrics, AI recommendations, actions, and feedback to help track operational issues and follow-through.
 
-Live OAuth integration, continuous data flow, and Windows validation are still pending. No public demo is available.
+The cleaned source is public and has passed limited offline checks. Clean installation, full type checking, the complete test suite, builds, and startup remain unverified. Live OAuth integration, continuous data flow, and Windows validation are also pending. No hosted public demo is available.
+
+[View the public project and validation limits →](https://github.com/xiaoyu312/live-growth-os)
 
 ### 片场 / Studio Workspace
 
@@ -40,11 +42,13 @@ NAS, Windows, and Jianying integration are still unverified. No public demo is a
 
 ### Creator Collaboration Hub
 
-**Creator partnerships · Internal deployment**
+**Creator partnerships · Public source and local synthetic demo**
 
 Organizes product samples, schedules, and handoffs for creator partnerships, keeping collaboration information in one place.
 
-Currently deployed internally, with no public demo.
+The main app and creator assistant have passed 318 tests, frontend and backend type checks, and a Vite frontend build. The public version defaults to a local synthetic demo that resets on restart. The full enterprise AppModule, workbook persistence, and database migrations are not included; clean installation, actual browser interaction, and production deployment remain unverified.
+
+[View the public project and setup guide →](https://github.com/xiaoyu312/creator-operations)
 
 ## Practical Tools
 
