@@ -8,6 +8,8 @@ I build products with AI, with a focus on practical tools for e-commerce and con
 
 I start with real needs and turn repetitive tasks, scattered data, and complex workflows into useful tools. This is a collection of my systems, tools, and skills workflows.
 
+[Try FateClear · Free birth charts and interpretations](https://fateclear.com) · [Find me on X](https://x.com/liu_xiaoyu27334)
+
 ## Web Product
 
 ### FateClear
@@ -34,6 +36,8 @@ A media workspace that connects asset search, previews, annotations, and editing
 
 NAS, Windows, and Jianying integration are still unverified. No public demo is available.
 
+[View the public project →](https://github.com/xiaoyu312/pianchang)
+
 ### Creator Collaboration Hub
 
 **Creator partnerships · Internal deployment**
@@ -48,7 +52,9 @@ Currently deployed internally, with no public demo.
 
 **Browser and desktop automation · Experimental**
 
-An exploration of browser and desktop automation, with implementation, tests, and builds in place. Real-platform use and long-running sessions remain unverified. No public download is available.
+An exploration of browser and desktop automation, with implementation, tests, and builds in place. Real-platform use and long-running sessions remain unverified.
+
+[View the public project →](https://github.com/xiaoyu312/autoclick)
 
 ### Qianchuan Live Dashboard Collector
 
@@ -58,7 +64,7 @@ Organizes livestream metrics at scheduled intervals, matches them to host schedu
 
 Validation against real Windows platform pages and failure scenarios is still pending.
 
-[View project →](https://github.com/a18565517703-ctrl/qianchuan-live-board-tool)
+[View project →](https://github.com/xiaoyu312/qianchuan-live-board-tool)
 
 ### ECK Order Customer Matcher
 
@@ -68,17 +74,19 @@ A local tool for organizing orders, identifying customer types, and exporting re
 
 Some sanitized scenarios have been validated; full Windows and real-platform workflows still await acceptance testing.
 
-[View project →](https://github.com/a18565517703-ctrl/eck-order-customer-matcher)
+[View project →](https://github.com/xiaoyu312/eck-order-customer-matcher)
 
 ## Skills & Workflows
 
-These 11 existing workflows are being reviewed for public presentation and packaging. They cover scripts and copy, video creation, e-commerce reviews, operations design, product delivery, and personal planning.
+This catalog introduces 11 workflow areas covering scripts and copy, video creation, e-commerce reviews, operations design, product delivery, and personal planning. Five cleaned and checked general-purpose versions are now available in [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills).
 
-This catalog describes their purpose and scope only. It does not offer installation packages or downloads, or indicate that source materials and code have been publicly released.
+The public repository is not a mirror of all private skills. The remaining catalog entries are purpose summaries, not a release of their source materials or code.
 
 [Explore the skills catalog →](SKILLS.en.md)
 
 ## Connect
+
+Try [FateClear](https://fateclear.com) for free birth charts and interpretations, or find me on [X](https://x.com/liu_xiaoyu27334) to talk about AI products and practical tools.
 
 [Website · FateClear](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334) · [Email](mailto:a18565517703@gmail.com)
 
