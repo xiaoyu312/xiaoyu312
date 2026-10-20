@@ -2,9 +2,11 @@
 
 [中文](SKILLS.md) · **English** · [Back to profile](README.en.md)
 
-These 11 existing workflows are being prepared for public presentation, with their publishable content and permissions under review.
+[FateClear · Free birth charts and interpretations](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334)
 
-**Shared status: Existing workflow · Public-package review.** This catalog provides purpose summaries only. No installation packages, downloads, source code, or underlying source materials are included.
+These 11 entries describe existing workflow areas. Five general-purpose versions are available in [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills): Chinese writing revision, Jimeng video direction, Tmall advertising weekly reviews, reference video structure adaptation, and operations dashboard design.
+
+**Public scope: Five general-purpose versions are released; the remaining entries are purpose summaries only.** The public repository is not a mirror of all private skills, and this catalog does not publish the underlying source materials.
 
 ## Scripts & Writing
 
@@ -62,6 +64,10 @@ Supports comparing choices, breaking down long-term actions, and examining situa
 
 ## Public Scope
 
-This catalog describes workflow purposes. It does not include course or book excerpts, brand fact libraries, customer data, private paths, or unreviewed source code. Package contents, usage boundaries, and third-party attribution requirements remain under review; inclusion here does not imply that all redistribution rights have been cleared.
+This catalog describes workflow purposes. It does not include course or book excerpts, brand fact libraries, customer data, private paths, or unreviewed source code. For the five released versions, see the per-package license status and third-party notices in the [public repository](https://github.com/xiaoyu312/ai-workflow-skills). Inclusion of the remaining entries here does not imply that redistribution rights have been cleared.
+
+## Try a Product & Connect
+
+Try my other product, [FateClear](https://fateclear.com), for free birth charts and interpretations, or share workflow feedback with me on [X](https://x.com/liu_xiaoyu27334).
 
 [Back to profile →](README.en.md)
