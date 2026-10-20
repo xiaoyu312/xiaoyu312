@@ -4,25 +4,33 @@
 
 [FateClear · 免费生日排盘与解读](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334)
 
-以下 11 项介绍已有工作流的用途。已公开的 5 个通用版本请见 [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills)：中文写作轻改、即梦视频导演、天猫万相台周复盘、参考视频结构迁移和经营看板设计系统。
+以下 11 项均已在 [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills) 发布整理后的通用版本。每个公开包包含可调用的 SKILL.md、使用说明和所需模板；下面可直接进入对应目录。
 
-**公开范围：5 个通用版本已发布，其余条目仅作用途介绍。** 公开仓库不是全部私有 Skills 的镜像；原始材料不随目录公开。
+**公开范围：11 个通用版本均已发布。** 公开版不附受限课程、书籍原文或私有数据，也不承诺完整保留原私有版本的方法体系或效果。
 
 ## 脚本与写作
 
 ### 01 · 短视频脚本工作流
 
+[查看公开版本 · 千川短视频脚本 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/qianchuan-script-creator)
+
 把事实、受众场景与卖点整理成逐镜头脚本，再做单变量版本调整与自检，便于比较不同表达。
 
 ### 02 · 品牌文案工作流
+
+[查看公开版本 · 品牌文案工作台 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/brand-copywriting)
 
 围绕需求、受众与卖点起草文案，通过模板复核表达与事实依据，让创作和校验衔接起来。
 
 ### 03 · 参考脚本结构改写
 
+[查看公开版本 · 参考视频结构迁移 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/benchmark-script-adapter)
+
 分析参考脚本的结构，剔除竞品事实，再依据自己的品牌与产品证据重写原创分镜脚本。
 
 ### 04 · 写作与表达修订
+
+[查看公开版本 · 中文写作轻改 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/wang-xiaobo-writing)
 
 用于社交内容、文章与口播稿的梳理和修订。保留事实与个人声音，让表达更清楚，并按不同使用场景检查。
 
@@ -32,9 +40,13 @@
 
 ### 05 · 视频导演工作流
 
+[查看公开版本 · 即梦视频导演 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/jimeng-video-director)
+
 串联脚本、分镜、参考素材的用途、状态连续性与提示词，再通过检查模板复核生成片段和剪辑结果。
 
 ### 06 · 广告镜头导演工作流
+
+[查看公开版本 · 镜头设计与回片检查 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/jimeng-shot-director)
 
 聚焦广告镜头设计、参考素材绑定与镜头连续性，配合镜头模板和生成片段复核，细化单镜头的执行要求。
 
@@ -42,9 +54,13 @@
 
 ### 07 · 电商投放周复盘
 
+[查看公开版本 · 天猫万相台周复盘 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/tmall-wanxiang-weekly-review)
+
 锁定数据来源，重新计算指标，区分事实与假设，再形成对比、行动项与 HTML/PDF 复盘报告。
 
 ### 08 · 运营看板设计系统
+
+[查看公开版本 · 经营看板设计系统 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/operations-dashboard-design)
 
 整理中文运营看板可复用的字体、颜色、状态与布局约束，帮助不同页面保持一致的信息层级与表达。
 
@@ -52,19 +68,27 @@
 
 ### 09 · AI 产品交付工作流
 
+[查看公开版本 · AI 产品现场交付 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/ai-product-field-delivery)
+
 围绕用户问题验证、最小可交付版本、评估、上线、运行诊断与价值复盘，组织从想法到交付的检查步骤。
 
 ### 10 · 职场协作与复盘
+
+[查看公开版本 · 职场沟通与行动 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/gandepiaoliang-career-coach)
 
 梳理目标、职责、依赖关系与沟通措辞，通过复盘明确下一步行动。公开介绍不包含真实同事、组织或私人案例。
 
 ### 11 · 个人决策与行动复盘
 
+[查看公开版本 · 个人决策与复盘 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/laoyu-life-coach)
+
 用于比较选择、拆解长期行动与梳理卡住的情境，通过复盘调整后续步骤。公开介绍不包含个人私密记录或原始课程材料。
 
 ## 关于公开范围
 
-目录展示的是工作流用途，不包含课程或书籍原文、品牌事实库、客户资料、私有路径或未经审查的源码。已发布的 5 个通用版本以 [公开仓库](https://github.com/xiaoyu312/ai-workflow-skills) 中逐包的许可状态与第三方说明为准；其余条目仍不代表已获得再分发许可。
+11 个公开包的能力、许可与历史来源以 [公开仓库](https://github.com/xiaoyu312/ai-workflow-skills) 中逐包的 README、许可状态和第三方说明为准。受限原材料未收录，署名和 MIT 许可均不授予这些材料的再分发权；旧目录名用于兼容，不代表原作者或平台的官方版本。
+
+新增 6 包仅完成基础结构、引用与合成任务检查；依赖 PyYAML 的官方结构校验未完成。所有包的模型行为质量、真实平台与业务效果均未验证，静态检查不能保证实际执行效果。
 
 ## 体验产品与交流
 
