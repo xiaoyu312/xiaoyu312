@@ -46,4 +46,13 @@ Experimental tool. Validation against real Windows platform pages and failure sc
 
 ## Connect
 
-[Website · FateClear](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334)
+[Website · FateClear](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334) · [Email](mailto:a18565517703@gmail.com)
+
+<details>
+<summary>Connect on WeChat</summary>
+
+<img src="assets/wechat-qr.png" alt="WeChat contact QR code" width="220" />
+
+[Open the full-size QR code](assets/wechat-qr.png)
+
+</details>

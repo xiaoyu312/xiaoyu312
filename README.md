@@ -46,4 +46,13 @@
 
 ## 找到我
 
-[网站 · FateClear](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334)
+[网站 · FateClear](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334) · [邮箱](mailto:a18565517703@gmail.com)
+
+<details>
+<summary>微信联系</summary>
+
+<img src="assets/wechat-qr.png" alt="微信联系二维码" width="220" />
+
+[打开二维码大图](assets/wechat-qr.png)
+
+</details>
