@@ -8,6 +8,8 @@
 
 从真实需求出发，把重复操作、分散数据和复杂流程，整理成更顺手的工具。这里记录我的系统、工具与 Skills 实践。
 
+[体验 FateClear · 免费生日排盘与解读](https://fateclear.com) · [在 X 找到我](https://x.com/liu_xiaoyu27334)
+
 ## 在线产品
 
 ### FateClear · 拨云
@@ -34,6 +36,8 @@
 
 NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
+[查看公开项目 →](https://github.com/xiaoyu312/pianchang)
+
 ### 达播管理中台
 
 **达人协作 · 内部部署**
@@ -48,7 +52,9 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
 **浏览器与桌面自动化 · 实验工具**
 
-探索浏览器与桌面操作的自动化，已有实现、测试与构建。真实平台和长时间运行仍待验证，暂不提供公开下载。
+探索浏览器与桌面操作的自动化，已有实现、测试与构建。真实平台和长时间运行仍待验证。
+
+[查看公开项目 →](https://github.com/xiaoyu312/autoclick)
 
 ### 千川直播大屏采集工具
 
@@ -58,7 +64,7 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
 真实 Windows 页面与故障场景仍待验证。
 
-[查看项目 →](https://github.com/a18565517703-ctrl/qianchuan-live-board-tool)
+[查看项目 →](https://github.com/xiaoyu312/qianchuan-live-board-tool)
 
 ### ECK 订单新老客匹配器
 
@@ -68,17 +74,19 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
 已有部分脱敏场景验证，完整 Windows 实机与真实平台流程仍待验收。
 
-[查看项目 →](https://github.com/a18565517703-ctrl/eck-order-customer-matcher)
+[查看项目 →](https://github.com/xiaoyu312/eck-order-customer-matcher)
 
 ## Skills 与工作流
 
-已有 11 项工作流，正在整理公开介绍并审查可发布范围，涵盖脚本与文案、视频创作、电商复盘、运营设计、产品交付与个人规划。
+这里介绍 11 项工作流方向，涵盖脚本与文案、视频创作、电商复盘、运营设计、产品交付与个人规划。其中 5 个经过整理和检查的通用版本已收录在 [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills)。
 
-当前目录只介绍用途与范围，不提供安装包或下载，也不代表原始材料与代码已公开发布。
+公开仓库不是全部私有 Skills 的镜像；其余目录条目仅介绍用途与范围，不代表原始材料或代码已经公开。
 
 [浏览 Skills 目录 →](SKILLS.md)
 
 ## 找到我
+
+想体验我的产品，可以试试免费的 [FateClear 生日排盘与解读](https://fateclear.com)；想交流 AI 产品与工具实践，欢迎在 [X](https://x.com/liu_xiaoyu27334) 找我。
 
 [网站 · FateClear](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334) · [邮箱](mailto:a18565517703@gmail.com)
 
