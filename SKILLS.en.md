@@ -4,25 +4,33 @@
 
 [FateClear · Free birth charts and interpretations](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334)
 
-These 11 entries describe existing workflow areas. Five general-purpose versions are available in [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills): Chinese writing revision, Jimeng video direction, Tmall advertising weekly reviews, reference video structure adaptation, and operations dashboard design.
+Cleaned general-purpose versions of all 11 entries are available in [AI Workflow Skills](https://github.com/xiaoyu312/ai-workflow-skills). Each public package includes a callable SKILL.md, usage instructions, and the templates it needs. The links below lead directly to each package.
 
-**Public scope: Five general-purpose versions are released; the remaining entries are purpose summaries only.** The public repository is not a mirror of all private skills, and this catalog does not publish the underlying source materials.
+**Public scope: All 11 general-purpose versions are released.** They exclude restricted course and book content and private data, and do not promise to preserve the complete methods or effects of the private versions.
 
 ## Scripts & Writing
 
 ### 01 · Short-Form Video Script Workflow
 
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/qianchuan-script-creator)
+
 Organizes facts, audience scenarios, and selling points into shot-by-shot scripts, then creates single-variable variations and runs self-checks to support comparison.
 
 ### 02 · Brand Copy Workflow
+
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/brand-copywriting)
 
 Drafts copy around the brief, audience, and selling points, using templates to check the wording and its factual support.
 
 ### 03 · Reference Script Structure Adapter
 
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/benchmark-script-adapter)
+
 Analyzes a reference script's structure, removes competitor-specific claims, and rebuilds an original shot-by-shot script using the creator's own brand and product evidence.
 
 ### 04 · Writing & Voice Revision
+
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/wang-xiaobo-writing)
 
 Helps organize and revise social posts, essays, and spoken scripts while preserving facts and the writer's own voice, with checks tailored to different use cases.
 
@@ -32,9 +40,13 @@ These two workflows are related variants: one covers the overall video process, 
 
 ### 05 · Video Director Workflow
 
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/jimeng-video-director)
+
 Connects scripts, storyboards, reference roles, state continuity, and prompts, then uses review templates to assess generated clips and editing results.
 
 ### 06 · Advertising Shot Director Workflow
+
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/jimeng-shot-director)
 
 Focuses on ad-shot design, reference binding, and continuity, using shot templates and clip reviews to clarify requirements for individual shots.
 
@@ -42,9 +54,13 @@ Focuses on ad-shot design, reference binding, and continuity, using shot templat
 
 ### 07 · E-commerce Advertising Weekly Review
 
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/tmall-wanxiang-weekly-review)
+
 Locks down data sources, recalculates metrics, separates facts from hypotheses, and produces comparisons, action items, and HTML/PDF review reports.
 
 ### 08 · Operations Dashboard Design System
+
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/operations-dashboard-design)
 
 Organizes reusable typography, color, status, and layout constraints for Chinese-language operations dashboards, supporting consistent information hierarchy across pages.
 
@@ -52,19 +68,27 @@ Organizes reusable typography, color, status, and layout constraints for Chinese
 
 ### 09 · AI Product Delivery Workflow
 
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/ai-product-field-delivery)
+
 Organizes checkpoints for user-problem validation, minimum delivery, evaluations, launch, operational diagnosis, and value reviews.
 
 ### 10 · Career Collaboration & Review
+
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/gandepiaoliang-career-coach)
 
 Clarifies goals, responsibilities, dependencies, and communication wording, then uses reviews to identify next steps. The public overview contains no real colleague, organization, or private case details.
 
 ### 11 · Personal Decisions & Action Review
 
+[View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/laoyu-life-coach)
+
 Supports comparing choices, breaking down long-term actions, and examining situations where progress has stalled. The public overview contains no private personal records or original course materials.
 
 ## Public Scope
 
-This catalog describes workflow purposes. It does not include course or book excerpts, brand fact libraries, customer data, private paths, or unreviewed source code. For the five released versions, see the per-package license status and third-party notices in the [public repository](https://github.com/xiaoyu312/ai-workflow-skills). Inclusion of the remaining entries here does not imply that redistribution rights have been cleared.
+For the capabilities, licenses, and historical sources of all 11 packages, see each package's README, license status, and third-party notices in the [public repository](https://github.com/xiaoyu312/ai-workflow-skills). Restricted source materials are not included; neither attribution nor the MIT license grants redistribution rights to them. Legacy directory names are retained for compatibility and do not indicate an official version from the original author or platform.
+
+The six newly released packages have only completed basic structure, reference, and synthetic-task checks. The official structural validator could not be completed because PyYAML was unavailable. Model behavior quality, real-platform operation, and business results remain unverified for all packages; static checks do not guarantee actual execution quality.
 
 ## Try a Product & Connect
 
