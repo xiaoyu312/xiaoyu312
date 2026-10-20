@@ -8,6 +8,14 @@ I build products with AI, with a focus on practical tools for e-commerce and con
 
 I start with real needs and turn repetitive tasks, scattered data, and complex workflows into useful tools. This is a collection of my systems, tools, and skills workflows.
 
+## Web Product
+
+### FateClear
+
+Free birth-chart generation and interpretation. Paid AI chat is planned. This profile links to the live website; the local source code is not published.
+
+[Visit FateClear →](https://fateclear.com)
+
 ## Systems I'm Building
 
 ### Live Growth OS
@@ -72,7 +80,7 @@ This catalog describes their purpose and scope only. It does not offer installat
 
 ## Connect
 
-[X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334) · [Email](mailto:a18565517703@gmail.com)
+[Website · FateClear](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334) · [Email](mailto:a18565517703@gmail.com)
 
 <details>
 <summary>Connect on WeChat</summary>
