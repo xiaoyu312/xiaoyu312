@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">xiaoyu312</title>
+  <desc id="desc">AI products, e-commerce, and content workflows. An original cream and cobalt banner with abstract cards and connecting shapes.</desc>
+  <rect width="1280" height="360" rx="24" fill="#F5F2EB"/>
+  <path d="M32 32H1248V328H32Z" fill="none" stroke="#DDD8CE" stroke-width="1"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="68" y="65" width="34" height="6" rx="3" fill="#2452CF"/>
+    <text x="116" y="75" font-size="15" letter-spacing="2.5" fill="#575950">PRODUCTS &amp; PRACTICE</text>
+    <text x="64" y="174" font-size="80" font-weight="700" letter-spacing="-3" fill="#1B2D60">xiaoyu312</text>
+    <text x="68" y="225" font-size="23" fill="#3E4759">Ideas into products. Tools for everyday work.</text>
+    <text x="68" y="283" font-size="13" font-weight="600" letter-spacing="1.6" fill="#2452CF">AI PRODUCTS · E-COMMERCE · CONTENT WORKFLOWS</text>
+  </g>
+  <g aria-hidden="true">
+    <circle cx="1087" cy="168" r="111" fill="#E5EAF8"/>
+    <path d="M856 255H1003Q1030 255 1030 228V121" fill="none" stroke="#2452CF" stroke-width="3" stroke-linecap="round"/>
+    <rect x="892" y="89" width="209" height="142" rx="14" fill="#2452CF" transform="rotate(-8 996 160)"/>
+    <rect x="959" y="136" width="223" height="143" rx="14" fill="#FFFDF8" stroke="#1B2D60" stroke-width="2"/>
+    <rect x="980" y="157" width="57" height="8" rx="4" fill="#2452CF"/>
+    <path d="M980 185H1156M980 207H1087M980 229H1124" stroke="#D9DCE4" stroke-width="8" stroke-linecap="round"/>
+    <rect x="1118" y="222" width="43" height="36" rx="8" fill="#F2A15F"/>
+    <path d="M1131 240L1138 247L1149 233" fill="none" stroke="#583319" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="861" cy="255" r="11" fill="#F2A15F"/>
+    <circle cx="1169" cy="83" r="15" fill="#F2A15F"/>
+    <path d="M874 100V120M864 110H884" stroke="#2452CF" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
