@@ -1,6 +1,6 @@
-![xiaoyu312: AI products, e-commerce, and content workflows](assets/hero.svg)
+[简体中文](README.md) · **English** · [日本語](README.ja.md)
 
-[中文](README.md) · **English**
+![xiaoyu312: AI products, e-commerce, and content workflows](assets/hero.svg)
 
 ## Hi, I'm xiaoyu312
 
@@ -9,6 +9,17 @@ I build products with AI, with a focus on practical tools for e-commerce and con
 I start with real needs and turn repetitive tasks, scattered data, and complex workflows into useful tools. This is a collection of my systems, tools, and skills workflows.
 
 [Try FateClear · Free birth charts and interpretations](https://fateclear.com) · [Find me on X](https://x.com/liu_xiaoyu27334)
+
+## Find a project for your task
+
+| What you want to do | Start here |
+| --- | --- |
+| Organize livestream, creator-partnership or content-production work | [Live Growth OS](https://github.com/xiaoyu312/live-growth-os) · [Creator Operations](https://github.com/xiaoyu312/creator-operations) · [Pianchang](https://github.com/xiaoyu312/pianchang) |
+| Repeat authorized actions on a web page | [AutoClick](https://github.com/xiaoyu312/autoclick) |
+| Use time conversion or calendar data in your own project | [Time calculation library](https://github.com/xiaoyu312/fateclear-solar-time) · [Calendar dataset](https://github.com/xiaoyu312/fateclear-calendar-data) |
+| Give an AI assistant a reusable task workflow | [Index of 11 Skills](SKILLS.en.md) |
+
+Each repository explains its source, usage and validation limits. Public source does not imply a hosted demo or production acceptance.
 
 ## Web Product
 
@@ -30,7 +41,7 @@ The cleaned source is public and has passed limited offline checks. Clean instal
 
 [View the public project and validation limits →](https://github.com/xiaoyu312/live-growth-os)
 
-### 片场 / Studio Workspace
+### 片场 / Pianchang
 
 **Content production · Local and internal validation**
 
@@ -46,7 +57,7 @@ NAS, Windows, and Jianying integration are still unverified. No public demo is a
 
 Organizes product samples, schedules, and handoffs for creator partnerships, keeping collaboration information in one place.
 
-The main app and creator assistant have passed 318 tests, frontend and backend type checks, and a Vite frontend build. The public version defaults to a local synthetic demo that resets on restart. The full enterprise AppModule, workbook persistence, and database migrations are not included; clean installation, actual browser interaction, and production deployment remain unverified.
+The public-release preparation records report 318 passing tests across the main app and creator assistant, frontend and backend type checks, and a successful Vite frontend build. The public version defaults to a local synthetic demo that resets on restart. The full enterprise AppModule, workbook persistence, and database migrations are not included; clean installation, actual browser interaction, and production deployment remain unverified.
 
 [View the public project and setup guide →](https://github.com/xiaoyu312/creator-operations)
 
@@ -56,7 +67,9 @@ The main app and creator assistant have passed 318 tests, frontend and backend t
 
 **Browser and desktop automation · Experimental**
 
-An exploration of browser and desktop automation, with implementation, tests, and builds in place. Real-platform use and long-running sessions remain unverified.
+Select a target on a web page and click it at an interval. The repository includes Chrome/Edge extension and Electron desktop source, plus local check and build commands.
+
+The public package contains no prebuilt application or store-release record. Extension installation, Electron startup, Windows packaging, real-platform use and long-running sessions remain unverified.
 
 [View the public project →](https://github.com/xiaoyu312/autoclick)
 
@@ -79,6 +92,24 @@ A local tool for organizing orders, identifying customer types, and exporting re
 Some sanitized scenarios have been validated; full Windows and real-platform workflows still await acceptance testing.
 
 [View project →](https://github.com/xiaoyu312/eck-order-customer-matcher)
+
+## Developer libraries & open data
+
+### fateclear-solar-time
+
+**Time calculation · TypeScript / MCP · MIT**
+
+Convert clock time and longitude into true solar time, or query the 24 solar terms and China's 1986–1991 DST status. For developers who need these calculations in their own applications or AI assistants.
+
+[View the API, MCP configuration and accuracy limits →](https://github.com/xiaoyu312/fateclear-solar-time)
+
+### fateclear-calendar-data
+
+**Calendar data · CSV / JSON · CC BY 4.0**
+
+Solar terms, daily sexagenary pillars and lunar dates for 1900–2100, plus China's DST table. The larger data files are available as Release assets or can be generated using the repository instructions. Data use requires attribution; the generation scripts are separately MIT-licensed.
+
+[View downloads, fields and attribution requirements →](https://github.com/xiaoyu312/fateclear-calendar-data)
 
 ## Skills & Workflows
 

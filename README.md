@@ -1,6 +1,6 @@
-![xiaoyu312：AI 产品、电商与内容工作流](assets/hero.svg)
+**简体中文** · [English](README.en.md) · [日本語](README.ja.md)
 
-**中文** · [English](README.en.md)
+![xiaoyu312：AI 产品、电商与内容工作流](assets/hero.svg)
 
 ## 你好，我是 xiaoyu312
 
@@ -9,6 +9,17 @@
 从真实需求出发，把重复操作、分散数据和复杂流程，整理成更顺手的工具。这里记录我的系统、工具与 Skills 实践。
 
 [体验 FateClear · 免费生日排盘与解读](https://fateclear.com) · [在 X 找到我](https://x.com/liu_xiaoyu27334)
+
+## 按任务找到项目
+
+| 想做什么 | 从这里开始 |
+| --- | --- |
+| 整理直播、达人合作或内容制作流程 | [Live Growth OS](https://github.com/xiaoyu312/live-growth-os) · [达播](https://github.com/xiaoyu312/creator-operations) · [片场](https://github.com/xiaoyu312/pianchang) |
+| 重复执行已授权的网页操作 | [AutoClick](https://github.com/xiaoyu312/autoclick) |
+| 在自己的项目中使用时间换算或历法数据 | [时间计算库](https://github.com/xiaoyu312/fateclear-solar-time) · [历法数据集](https://github.com/xiaoyu312/fateclear-calendar-data) |
+| 给 AI 助手一套可复用的任务流程 | [11 个 Skills 索引](SKILLS.md) |
+
+各仓库提供源码、使用说明和验证边界；有公开源码不等于已有托管演示或完成生产验收。
 
 ## 在线产品
 
@@ -46,7 +57,7 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
 围绕达人合作，整理寄样、排期与协作交接，让项目推进中的信息更集中。
 
-主应用与达人助手共 318 项测试、前后端类型检查及前端 Vite 构建已通过。公开版本默认是重启即重置的本地合成演示；完整企业 AppModule、工作簿持久化和数据库迁移未收录，干净安装、实际浏览器交互与生产部署尚未验证。
+公开前的验证记录中，主应用与达人助手共 318 项测试、前后端类型检查及前端 Vite 构建已通过。公开版本默认是重启即重置的本地合成演示；完整企业 AppModule、工作簿持久化和数据库迁移未收录，干净安装、实际浏览器交互与生产部署尚未验证。
 
 [查看公开项目与运行说明 →](https://github.com/xiaoyu312/creator-operations)
 
@@ -56,7 +67,9 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
 **浏览器与桌面自动化 · 实验工具**
 
-探索浏览器与桌面操作的自动化，已有实现、测试与构建。真实平台和长时间运行仍待验证。
+在网页中选择目标并按间隔点击，提供 Chrome/Edge 扩展与 Electron 桌面源码，以及本地检查和构建入口。
+
+公开版不含预编译程序或商店发布记录。扩展安装、Electron 启动、Windows 打包、真实平台与长时间运行仍待验收。
 
 [查看公开项目 →](https://github.com/xiaoyu312/autoclick)
 
@@ -79,6 +92,24 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 已有部分脱敏场景验证，完整 Windows 实机与真实平台流程仍待验收。
 
 [查看项目 →](https://github.com/xiaoyu312/eck-order-customer-matcher)
+
+## 开发者库与开放数据
+
+### fateclear-solar-time
+
+**时间计算 · TypeScript / MCP · MIT**
+
+输入钟表时间与经度，计算真太阳时；也可查询二十四节气时刻和中国 1986–1991 年夏令时状态。适合需要在自己应用或 AI 助手中使用这些计算的开发者。
+
+[查看 API、MCP 配置与精度边界 →](https://github.com/xiaoyu312/fateclear-solar-time)
+
+### fateclear-calendar-data
+
+**历法数据 · CSV / JSON · CC BY 4.0**
+
+提供 1900–2100 年节气、每日干支与农历数据，以及中国夏令时表。大数据文件通过 Release 提供，也可按仓库说明自行生成；使用数据须署名，生成脚本另采用 MIT。
+
+[查看数据下载、字段与署名要求 →](https://github.com/xiaoyu312/fateclear-calendar-data)
 
 ## Skills 与工作流
 

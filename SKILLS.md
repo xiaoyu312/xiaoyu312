@@ -1,6 +1,6 @@
-# Skills 与工作流
+**简体中文** · [English](SKILLS.en.md) · [日本語](SKILLS.ja.md) · [返回主页](README.md)
 
-**中文** · [English](SKILLS.en.md) · [返回主页](README.md)
+# Skills 与工作流
 
 [FateClear · 免费生日排盘与解读](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334)
 
@@ -56,7 +56,7 @@
 
 [查看公开版本 · 天猫万相台周复盘 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/tmall-wanxiang-weekly-review)
 
-锁定数据来源，重新计算指标，区分事实与假设，再形成对比、行动项与 HTML/PDF 复盘报告。
+明确数据来源，重新计算指标，区分事实与假设，再形成对比和行动项。可让助手按契约交付 Markdown／HTML；公开包不附数据连接器或自动报告生成器。
 
 ### 08 · 运营看板设计系统
 
@@ -70,7 +70,7 @@
 
 [查看公开版本 · AI 产品现场交付 →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/ai-product-field-delivery)
 
-围绕用户问题验证、最小可交付版本、评估、上线、运行诊断与价值复盘，组织从想法到交付的检查步骤。
+围绕交付简报、评测方案、发布计划和运行复盘四个入口，明确范围、验收证据、人工接手与失败处理。使用独立通用模板，不承诺与私有版原有方法等效。
 
 ### 10 · 职场协作与复盘
 

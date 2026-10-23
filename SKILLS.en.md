@@ -1,6 +1,6 @@
-# Skills & Workflows
+[简体中文](SKILLS.md) · **English** · [日本語](SKILLS.ja.md) · [Back to profile](README.en.md)
 
-[中文](SKILLS.md) · **English** · [Back to profile](README.en.md)
+# Skills & Workflows
 
 [FateClear · Free birth charts and interpretations](https://fateclear.com) · [X · @liu_xiaoyu27334](https://x.com/liu_xiaoyu27334)
 
@@ -56,7 +56,7 @@ Focuses on ad-shot design, reference binding, and continuity, using shot templat
 
 [View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/tmall-wanxiang-weekly-review)
 
-Locks down data sources, recalculates metrics, separates facts from hypotheses, and produces comparisons, action items, and HTML/PDF review reports.
+Identifies data sources, recalculates metrics, separates facts from hypotheses, and develops comparisons and actions. An assistant can use the contract to produce Markdown or HTML; the public package includes no data connector or automated report generator.
 
 ### 08 · Operations Dashboard Design System
 
@@ -70,7 +70,7 @@ Organizes reusable typography, color, status, and layout constraints for Chinese
 
 [View public package →](https://github.com/xiaoyu312/ai-workflow-skills/tree/main/skills/ai-product-field-delivery)
 
-Organizes checkpoints for user-problem validation, minimum delivery, evaluations, launch, operational diagnosis, and value reviews.
+Provides four entry points—delivery brief, evaluation plan, release plan and operational review—to clarify scope, acceptance evidence, human handoff and failure handling. It uses independent general templates and does not promise equivalence to the private edition’s original methods.
 
 ### 10 · Career Collaboration & Review
 
