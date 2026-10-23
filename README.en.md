@@ -1,14 +1,22 @@
 [简体中文](README.md) · **English** · [日本語](README.ja.md)
 
-![xiaoyu312: AI products, e-commerce, and content workflows](assets/hero.svg)
-
-## Hi, I'm xiaoyu312
+# Hi, I'm xiaoyu312
 
 I build products with AI, with a focus on practical tools for e-commerce and content workflows.
 
-I start with real needs and turn repetitive tasks, scattered data, and complex workflows into useful tools. This is a collection of my systems, tools, and skills workflows.
+[Try FateClear · Free birth charts and interpretations](https://fateclear.com) · [Follow me on X](https://x.com/liu_xiaoyu27334)
 
-[Try FateClear · Free birth charts and interpretations](https://fateclear.com) · [Find me on X](https://x.com/liu_xiaoyu27334)
+## Selected projects
+
+- [Pianchang · Source and docs](https://github.com/xiaoyu312/pianchang): asset search, previews and editing handoffs. **Public source; validation in progress.**
+- [AutoClick · Source and docs](https://github.com/xiaoyu312/autoclick): select a web target and click at intervals. **Experimental public source.**
+- [AI Workflow Skills · Catalog and usage](SKILLS.en.md): 11 workflows for content, operations and delivery. **Public instructions; model output quality unverified.**
+- [Creator Operations · Source and docs](https://github.com/xiaoyu312/creator-operations): samples, schedules and collaboration handoffs. **Public source with a local synthetic demo.**
+
+<details>
+<summary>Full project directory and validation limits</summary>
+
+I start with real needs and turn repetitive tasks, scattered data, and complex workflows into useful tools. This is a collection of my systems, tools, and skills workflows.
 
 ## Find a project for your task
 
@@ -119,7 +127,12 @@ The public versions exclude restricted course and book content and private data.
 
 [Explore the skills catalog →](SKILLS.en.md)
 
-## Connect
+![xiaoyu312: AI products, e-commerce, and content workflows](assets/hero.svg)
+
+</details>
+
+<details>
+<summary>Contact details</summary>
 
 Try [FateClear](https://fateclear.com) for free birth charts and interpretations, or find me on [X](https://x.com/liu_xiaoyu27334) to talk about AI products and practical tools.
 
@@ -131,5 +144,7 @@ Try [FateClear](https://fateclear.com) for free birth charts and interpretations
 <img src="assets/wechat-qr.png" alt="WeChat contact QR code" width="220" />
 
 [Open the full-size QR code](assets/wechat-qr.png)
+
+</details>
 
 </details>

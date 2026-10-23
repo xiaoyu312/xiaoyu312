@@ -1,14 +1,22 @@
 [简体中文](README.md) · [English](README.en.md) · **日本語**
 
-![xiaoyu312：AI プロダクト、EC、コンテンツ制作のワークフロー](assets/hero.svg)
-
-## はじめまして、xiaoyu312 です
+# はじめまして、xiaoyu312 です
 
 AI を使ってアイデアをプロダクトにしています。特に、EC とコンテンツ制作の仕事を進めやすくするツールに取り組んでいます。
 
-実際の課題から出発し、繰り返し作業、散在するデータ、複雑な手順を使いやすい形に整理しています。ここでは、自作のシステム、ツール、Skills を紹介します。
+[FateClear を試す · 無料の命式作成と解説](https://fateclear.com) · [X をフォロー](https://x.com/liu_xiaoyu27334)
 
-[FateClear を試す · 無料の命式作成と解説](https://fateclear.com) · [X でつながる](https://x.com/liu_xiaoyu27334)
+## 代表的なプロジェクト
+
+- [Pianchang · ソースと使い方](https://github.com/xiaoyu312/pianchang)：素材の検索、プレビュー、編集への引き継ぎ。**ソース公開、検証中。**
+- [AutoClick · ソースと使い方](https://github.com/xiaoyu312/autoclick)：Web ページの対象を選び、指定した間隔でクリック。**ソース公開の実験版。**
+- [AI Workflow Skills · 一覧と使い方](SKILLS.ja.md)：制作・運用・導入を支える 11 のワークフロー。**指示文を公開、生成品質は未検証。**
+- [Creator Operations · ソースと使い方](https://github.com/xiaoyu312/creator-operations)：サンプル提供、日程、共同作業の引き継ぎ。**公開ソースと架空データのローカルデモ。**
+
+<details>
+<summary>全プロジェクトと検証範囲</summary>
+
+実際の課題から出発し、繰り返し作業、散在するデータ、複雑な手順を使いやすい形に整理しています。ここでは、自作のシステム、ツール、Skills を紹介します。
 
 ## 目的からプロジェクトを探す
 
@@ -119,7 +127,12 @@ Web ページ上の対象を選び、指定した間隔でクリックします�
 
 [Skills 一覧を見る →](SKILLS.ja.md)
 
-## 連絡先
+![xiaoyu312：AI プロダクト、EC、コンテンツ制作のワークフロー](assets/hero.svg)
+
+</details>
+
+<details>
+<summary>連絡先</summary>
 
 プロダクトを試すなら、無料の [FateClear の命式作成と解説](https://fateclear.com) をどうぞ。AI プロダクトや実用ツールについては、[X](https://x.com/liu_xiaoyu27334) で気軽に声をかけてください。
 
@@ -131,5 +144,7 @@ Web ページ上の対象を選び、指定した間隔でクリックします�
 <img src="assets/wechat-qr.png" alt="WeChat 連絡用 QR コード" width="220" />
 
 [QR コードを大きく表示](assets/wechat-qr.png)
+
+</details>
 
 </details>

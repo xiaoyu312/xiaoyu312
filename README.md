@@ -1,14 +1,22 @@
 **简体中文** · [English](README.en.md) · [日本語](README.ja.md)
 
-![xiaoyu312：AI 产品、电商与内容工作流](assets/hero.svg)
-
-## 你好，我是 xiaoyu312
+# 你好，我是 xiaoyu312
 
 我用 AI 把想法做成产品，关注电商与内容工作中的效率问题。
 
-从真实需求出发，把重复操作、分散数据和复杂流程，整理成更顺手的工具。这里记录我的系统、工具与 Skills 实践。
+[体验 FateClear · 免费生日排盘与解读](https://fateclear.com) · [在 X 关注我](https://x.com/liu_xiaoyu27334)
 
-[体验 FateClear · 免费生日排盘与解读](https://fateclear.com) · [在 X 找到我](https://x.com/liu_xiaoyu27334)
+## 精选作品
+
+- [片场 · 源码与说明](https://github.com/xiaoyu312/pianchang)：素材检索、预览与剪辑交接。**公开源码，验证中。**
+- [AutoClick · 源码与说明](https://github.com/xiaoyu312/autoclick)：选择网页目标，按间隔点击。**公开源码，实验工具。**
+- [AI Workflow Skills · 目录与用法](SKILLS.md)：11 个内容、运营与交付工作流。**公开指令集，生成效果未验证。**
+- [达播 · 源码与说明](https://github.com/xiaoyu312/creator-operations)：整理寄样、排期与协作交接。**公开源码，本地合成演示。**
+
+<details>
+<summary>完整项目目录与验证范围</summary>
+
+从真实需求出发，把重复操作、分散数据和复杂流程，整理成更顺手的工具。这里记录我的系统、工具与 Skills 实践。
 
 ## 按任务找到项目
 
@@ -119,7 +127,12 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 
 [浏览 Skills 目录 →](SKILLS.md)
 
-## 找到我
+![xiaoyu312：AI 产品、电商与内容工作流](assets/hero.svg)
+
+</details>
+
+<details>
+<summary>联系方式</summary>
 
 想体验我的产品，可以试试免费的 [FateClear 生日排盘与解读](https://fateclear.com)；想交流 AI 产品与工具实践，欢迎在 [X](https://x.com/liu_xiaoyu27334) 找我。
 
@@ -131,5 +144,7 @@ NAS、Windows 与剪映衔接仍待验证，暂不提供公开体验入口。
 <img src="assets/wechat-qr.png" alt="微信联系二维码" width="220" />
 
 [打开二维码大图](assets/wechat-qr.png)
+
+</details>
 
 </details>
